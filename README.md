@@ -10,4 +10,4 @@ Para ajudar os alunos do Inatel, criei este repositório com resumos dos último
 - **Módulo 7** - Tópicos em Liderança  
 - **Módulo 8** - Planejamento Estratégico  
 
-Espero que os resumos contribuam para facilitar o aprendizado e melhorar a experiência com a disciplina.
+Espero que os resumos contribuam para facilitar o aprendizado e melhorar a experiência com a disciplina. 
