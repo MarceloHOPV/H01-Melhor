@@ -82,24 +82,80 @@ A Teoria Clássica de Fayol e Weber aborda o comando, controle organizacional e 
 
 ---
 
-## Max Weber e a Burocracia
-- **Max Weber**: Pai da Sociologia, destacou a racionalidade nas organizações.
-- Características da burocracia:
-  1. **Formalidade**: Normas explícitas e punições regulamentadas.
-  2. **Impessoalidade**: Direitos e deveres atrelados aos cargos, não às pessoas.
-  3. **Profissionalismo**: Carreira baseada em qualificações.
+## **Max Weber e a Burocracia**
+- **Maximilian Karl Emil Weber** (1864–1920): Sociólogo, jurista e economista alemão, considerado um dos fundadores da Sociologia Moderna.
+- **Obra mais famosa**: *"A Ética Protestante e o Espírito do Capitalismo"*.
+- Weber introduziu o conceito de burocracia como um **modelo ideal de organização formal**, estruturado em leis e regras racionais.
 
-### Disfunções da Burocracia
-#### Charles Perrow
-- Particularismo: Interesse de grupos externos influencia decisões.
-- Satisfação de interesses pessoais: Raiz da corrupção.
-- Excesso de regras: Compromete eficiência.
-- Ênfase na hierarquia: Reduz autonomia e criatividade.
+### **Conceito de Burocracia**
+- Deriva de "bureau" (escritório, em francês) e "krátos" (poder ou regra, em grego).
+- Organizações burocráticas são aquelas que:
+  - Seguem regulamentos e normas racionais.
+  - Definem direitos e deveres para todos os membros.
+  - Conferem autoridade com base nas leis e regras, não em preferências pessoais.
 
-#### William Roth
-- Papéis e responsabilidades limitadas subaproveitam talentos.
-- Incentivo ao conflito por cargos de chefia.
-- Muitos níveis hierárquicos prejudicam o fluxo de informações.
+### **Características do Modelo Ideal de Burocracia**
+1. **Formalidade**:
+   - Base em normas explícitas e regulamentos claros.
+   - Cada pessoa tem direitos e deveres definidos.
+   - Violações resultam em punições previstas e regulamentadas.
+   - Autoridade das figuras administrativas também está sujeita às leis.
+2. **Impessoalidade**:
+   - Relações são determinadas pelos cargos, e não pelas pessoas.
+   - A autoridade do superior é devida ao cargo que ocupa, não à sua pessoa.
+   - Promove igualdade perante as regras.
+3. **Profissionalismo**:
+   - Os cargos oferecem carreira e sustento aos ocupantes.
+   - A seleção é baseada nas qualificações dos candidatos.
+   - Garantia de estabilidade e salários para os ocupantes.
+
+### **Pontos Fundamentais da Burocracia**
+- **Hierarquia**: 
+  - Cada nível hierárquico presta contas ao nível superior.
+  - Divisão clara de responsabilidades e autoridade.
+- **Especialização**:
+  - Funções específicas para cada cargo.
+  - Eficiência por meio de especialização.
+- **Racionalidade**:
+  - Regras e regulamentos garantem previsibilidade e consistência.
+  - Evitam arbitrariedade e promovem estabilidade.
+
+---
+
+## **Disfunções da Burocracia**
+Embora Weber tenha idealizado a burocracia como um sistema eficiente, estudiosos posteriores identificaram problemas em sua aplicação prática.
+
+### **Disfunções segundo Charles Perrow**
+1. **Particularismo**: 
+   - Interesses externos afetam a organização, como grupos sociais ou pessoais.
+2. **Uso indevido de recursos**:
+   - Objetivos pessoais ou corrupção interferem no funcionamento.
+3. **Excesso de regras**:
+   - As regras podem se tornar um obstáculo em vez de uma solução.
+4. **Ênfase na hierarquia**:
+   - Diminui autonomia e criatividade dos subordinados.
+   - Promove dependência de aprovação superior.
+
+### **Disfunções segundo William Roth**
+1. **Limitação de talentos**:
+   - Redução da autonomia e subutilização das habilidades dos funcionários.
+2. **Conflito interno**:
+   - Competição prejudicial por cargos de chefia.
+3. **Problemas de comunicação**:
+   - Muitos níveis hierárquicos dificultam o fluxo de informações.
+4. **Valorização excessiva do número de subordinados**:
+   - O valor do chefe é medido pelo número de subordinados, não por sua eficiência.
+
+---
+
+## **Aplicação do Modelo de Weber**
+- **Vantagens**:
+  - Uniformidade nas operações.
+  - Redução de erros e arbitrariedade.
+  - Estabilidade e previsibilidade organizacional.
+- **Limitações**:
+  - Rigidez diante de mudanças externas.
+  - Desafios em organizações dinâmicas e ambientes instáveis.
 
 ---
 
